@@ -2,3 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>https://158e735d-16e5-4e68-a6b9-7db201f55ed5.com/index</loc>
+        <lastmod>2022-06-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://158e735d-16e5-4e68-a6b9-7db201f55ed5.com/store</loc>
+        <lastmod>2022-06-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://158e735d-16e5-4e68-a6b9-7db201f55ed5.com/reviews</loc>
+        <lastmod>2022-06-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://158e735d-16e5-4e68-a6b9-7db201f55ed5.com/gallery-All</loc>
+        <lastmod>2022-06-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://158e735d-16e5-4e68-a6b9-7db201f55ed5.com/gallery-Our-Past-Work</loc>
+        <lastmod>2022-06-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://158e735d-16e5-4e68-a6b9-7db201f55ed5.com/service-Appliance-Removal</loc>
+        <lastmod>2022-06-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://158e735d-16e5-4e68-a6b9-7db201f55ed5.com/service-Cleanouts</loc>
+        <lastmod>2022-06-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://158e735d-16e5-4e68-a6b9-7db201f55ed5.com/service-Construction-Debris-Removal</loc>
+        <lastmod>2022-06-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://158e735d-16e5-4e68-a6b9-7db201f55ed5.com/service-Demolition</loc>
+        <lastmod>2022-06-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://158e735d-16e5-4e68-a6b9-7db201f55ed5.com/service-Hauling</loc>
+        <lastmod>2022-06-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://158e735d-16e5-4e68-a6b9-7db201f55ed5.com/service-Junk-Removal</loc>
+        <lastmod>2022-06-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+</urlset>
